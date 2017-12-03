@@ -1,0 +1,12 @@
+li{
+  display: inline;
+}
+
+a:hover {
+  color:rgb(216, 18, 216);
+  background-color: rgb(4, 197, 84);
+  
+}
+a:active {
+padding: 0 5px;
+}
